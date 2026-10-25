@@ -16,7 +16,7 @@ import OpeningPage from '@/components/OpeningPage.vue';
 import EndScreen from '@/components/EndScreen.vue';
 
 export default {
-  name: "app",
+  name: "app", 
   components: {
     OpeningPage,
     SubjectsMap,
